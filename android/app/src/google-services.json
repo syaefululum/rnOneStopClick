@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "698076673696",
+    "firebase_url": "https://reactnativecourse-313b5.firebaseio.com",
+    "project_id": "reactnativecourse-313b5",
+    "storage_bucket": "reactnativecourse-313b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698076673696:android:b985069efc75a14e",
+        "android_client_info": {
+          "package_name": "com.rni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698076673696-rro56t8ke5uith12hvnl8jo139293vmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARwX9UjR2_XdY_oCq-XQfCknUlytjyHkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698076673696-rro56t8ke5uith12hvnl8jo139293vmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

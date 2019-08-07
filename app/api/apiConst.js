@@ -1,0 +1,25 @@
+export const BASE_URL = 'https://goosc.herokuapp.com';
+
+export const SIGNIN_URL = '/auth';
+export const SIGNUP_URL = '/registration';
+export const SIGNINSOCMED_URL = '/auth/user/socialmedialogin';
+export const GETPRODUCT_URL = '/guest/product';
+export const ADDCART_URL = '/cart/';
+export const LISTCART_URL = '/cart';
+export const DELETECART_URL = '/cart/';
+export const SUMMARYCART_URL = '/cart/summary';
+export const DOPAYMENT_URL = '/cart/dopaypalpayment';
+export const PRODUCTDETAIL_URL = '/guest/product/detail';
+export const DOWNLOADVALIDATION_URL = '/cart/downloadvalidation';
+export const DOWNLOADFILE_URL = '/cart/downloadfile';
+export const UPDATEPROFILE_URL = '/user/';
+export const CHANGEPASSWORD_URL = '/user';
+export const TOPUPBALANCE_URL = '';
+export const GETUSERPROFILE_URL = '/dashboard/user';
+export const ACTIVATEBALANCE_URL = '/dashboard/user/activatebalance';
+export const GETPRODUCTS_URL = '/product';
+export const GETCATEGORY_URL = '/category';
+export const DELETECATEGORY_URL = '/category/';
+export const GETSUBCATBYCATID_URL = '/guest/subcategory';
+export const CREATENEWPRODUCT_URL = '/product';
+export const GETADMINPRODUCT_URL = '/product/';
